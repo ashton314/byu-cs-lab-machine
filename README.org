@@ -1,0 +1,11 @@
+#+TITLE: BYU CS Lab Machine
+
+A Docker image for the BYU lab machines.
+
+** Motivation
+
+I work primarily on macOS, but all of the CS department requires that your code run on an Ubuntu machine. This Docker image lets me have a Ubuntu machine to compile my code on, whilst editing it on macOS. Everyone wins.
+
+** Author
+
+Ashton Wiersdorf
